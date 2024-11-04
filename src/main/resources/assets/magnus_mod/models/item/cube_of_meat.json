@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "magnus_mod:item/cube_of_meat_texture"
+  }
+}
